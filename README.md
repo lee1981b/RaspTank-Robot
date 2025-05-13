@@ -16,7 +16,7 @@
 ## Getting Started
 ```bash
 git clone git@github.com:lee1981b/RaspTank-Robot.git
-cd rasptank-robot
+cd RaspTank-Robot
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
